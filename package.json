@@ -22,6 +22,6 @@
     "prop-types": "*"
   },
   "dependencies": {
-    "react-native-view-transformer": "0.0.28"
+    "react-native-view-transformer": "RealGeeks/react-native-view-transformer#prop-types"
   }
 }
